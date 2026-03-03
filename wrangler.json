@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "clev",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "cb01cd87-a295-4268-b9dd-0701193bf568",
+			"database_name": "clev-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
